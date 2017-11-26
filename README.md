@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Just another repository.
+I love to capture beautiful things from different angles.
